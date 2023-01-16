@@ -112,7 +112,7 @@ function next (event) {
     }
 }
 
-setInterval(next, 800);
+setInterval(next, 1000);
 
 previousButton.addEventListener("click", previous);
 nextButton.addEventListener("click", next);
