@@ -1,0 +1,1 @@
+Visually speaking, eight is the highest order number. That is the end of the loop. And also the start of the new iteration of the loop. Zero is more so an imaginary number. It doesn’t really make sense for continuity and the human experience of time. Nine is the same as six, only vertically reflected. Ten is a combination of two numbers, one and zero, already defined.
