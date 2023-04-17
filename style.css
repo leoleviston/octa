@@ -11,13 +11,6 @@
     background-repeat: no-repeat;
 }
 
-/*#heading {
-    font-family: 'Roboto Mono', monospace;
-    font-size: 22px;
-    color: rgb(56, 56, 56);
-    text-align: center;
-}*/
-
 #container {
     height: 85%;
     width: 50%;
@@ -46,7 +39,6 @@
     color: rgb(56, 56, 56);
 }
 
-
 #footer {
     width: 100%;
     display: flex;
@@ -55,6 +47,7 @@
 }
 
 a {
+    font-family: 'Roboto Mono', monospace;
     font-size: 22px;
     color: rgb(56, 56, 56);
     text-decoration: none;
