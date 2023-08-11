@@ -1,1 +1,1 @@
-Time keeping
+Functional counting
